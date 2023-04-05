@@ -7,6 +7,9 @@ Configure libraries and add levels/level2.jar to the build path
 
 Configure libraries and add lib/ all files to the build path
 
+## My Contribution
+My responsibilities include all Domain aspects of the program. This includes the classes of each object and the logic of the gameplay.
+
 ## Testing
 
 Fuzz testing relies on actual keystrokes generated to effectively test a real-user's inputs. This means that if clicked off the window, random keystrokes will begin to affect the user's computer. For best usage, leave your computer alone for the two minuites the test is running, or close the window. Alttabbing while the program is running is not recommended
