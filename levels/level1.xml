@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level num="1" time="60">
+	<map rows="14" cols="15">
+		<row>ww#####w#####ww</row>
+		<row>ww#...###...#ww</row>
+		<row>ww#...#.#...#ww</row>
+		<row>#####G#X#G#####</row>
+		<row>#...B.....R...#</row>
+		<row>#...#.....#...#</row>
+		<row>#####..s..#####</row>
+		<row>#...#.....#...#</row>
+		<row>#...R.....B...#</row>
+		<row>######Y#Y######</row>
+		<row>wwww#..#..#wwww</row>
+		<row>wwww#..#..#wwww</row>
+		<row>wwww#..#..#wwww</row>
+		<row>wwww#######wwww</row>
+	</map>
+	<entities>
+		<key x="5" y="5" code="B"/>
+		<key x="5" y="7" code="B"/>
+		<key x="9" y="5" code="R"/>
+		<key x="9" y="7" code="R"/>
+		<key x="2" y="4" code="Y"/>
+		<key x="12" y="4" code="Y"/>
+		<key x="8" y="12" code="G"/>
+		<info x="7" y="5">
+			<message>Collect watering cans to douse the fire</message>
+		</info>
+		<treasure x="4" y="2"/>
+		<treasure x="10" y="2"/>
+		<treasure x="2" y="5"/>
+		<treasure x="2" y="7"/>
+		<treasure x="12" y="5"/>
+		<treasure x="12" y="7"/>
+		<treasure x="5" y="6"/>
+		<treasure x="7" y="8"/>
+		<treasure x="9" y="6"/>
+		<treasure x="6" y="11"/>
+		<treasure x="8" y="11"/>
+		<exit x="7" y="2"/>
+	</entities>
+	<player x="7" y="6">
+		<inventory>
+		</inventory>
+	</player>
+	<actors>
+	</actors>
+</level>

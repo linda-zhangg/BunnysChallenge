@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>C:/Users/DJ/Documents/University/2022 Y2/SWEN225/chips-challenge</OriginalElement>
+  <nodes>
+    <node x="1697.1710402200417" y="1138.6475788573437">nz.ac.vuw.ecs.swen225.gp22.app.CustomButton</node>
+    <node x="947.3937910523966" y="1439.7897178201517">nz.ac.vuw.ecs.swen225.gp22.domain.Cell</node>
+    <node x="1010.4954290962567" y="946.1284539271928">nz.ac.vuw.ecs.swen225.gp22.domain.Exit</node>
+    <node x="1041.7324833247328" y="1251.1184763199885">nz.ac.vuw.ecs.swen225.gp22.renderer.LevelView.PlayerFields</node>
+    <node x="309.31202162962427" y="1278.5373915200485">nz.ac.vuw.ecs.swen225.gp22.persistency.Levels</node>
+    <node x="181.95185717690993" y="760.2476130653965">nz.ac.vuw.ecs.swen225.gp22.renderer.fonts.LoadedFont</node>
+    <node x="1334.2324833247328" y="1611.0818478221431">nz.ac.vuw.ecs.swen225.gp22.renderer.LevelView.ScreenFields</node>
+    <node x="1567.631693728016" y="719.0233857004146">nz.ac.vuw.ecs.swen225.gp22.domain.LockedDoor</node>
+    <node x="1394.2324833247328" y="1156.9925771456994">test.nz.ac.vuw.ecs.swen225.gp22.fuzz.FuzzTests.MyRobot</node>
+    <node x="343.6991886316265" y="570.9059796188001">nz.ac.vuw.ecs.swen225.gp22.domain.GreenLockedDoor</node>
+    <node x="1794.3980090032323" y="662.4137662352338">nz.ac.vuw.ecs.swen225.gp22.domain.ExitLock</node>
+    <node x="-131.3105725259415" y="1155.3953004743548">nz.ac.vuw.ecs.swen225.gp22.app.Chips</node>
+    <node x="2491.2203830561616" y="988.0075197083906">nz.ac.vuw.ecs.swen225.gp22.domain.InfoField</node>
+    <node x="416.4530136606056" y="1031.9384974813267">nz.ac.vuw.ecs.swen225.gp22.app.Main</node>
+    <node x="2288.1408522993115" y="575.7693347688615">nz.ac.vuw.ecs.swen225.gp22.domain.Water</node>
+    <node x="572.6941630783092" y="2364.959848333343">nz.ac.vuw.ecs.swen225.gp22.renderer.sounds.Sound</node>
+    <node x="788.3129809311492" y="674.2339050902799">nz.ac.vuw.ecs.swen225.gp22.domain.Entity</node>
+    <node x="573.1811999683566" y="626.9154475465217">nz.ac.vuw.ecs.swen225.gp22.domain.RedLockedDoor</node>
+    <node x="1799.0373939581848" y="823.4571793301888">nz.ac.vuw.ecs.swen225.gp22.domain.YellowLockedDoor</node>
+    <node x="1323.6965284095488" y="696.7129004222654">nz.ac.vuw.ecs.swen225.gp22.domain.BlueLockedDoor</node>
+    <node x="123.91336608071322" y="1939.975274489936">nz.ac.vuw.ecs.swen225.gp22.domain.Level</node>
+    <node x="1926.185116767765" y="963.003051858336">nz.ac.vuw.ecs.swen225.gp22.domain.Key</node>
+    <node x="1300.2324833247328" y="1278.4314137020087">nz.ac.vuw.ecs.swen225.gp22.renderer.LevelView</node>
+    <node x="2318.9833980054204" y="746.4786406589009">nz.ac.vuw.ecs.swen225.gp22.domain.Teleporter</node>
+    <node x="2019.4421899997305" y="1196.6058248222614">nz.ac.vuw.ecs.swen225.gp22.domain.Observer</node>
+    <node x="2741.5038796025888" y="1274.6635543290197">nz.ac.vuw.ecs.swen225.gp22.renderer.SoundPlayer</node>
+    <node x="1075.16160001094" y="739.7370592882777">nz.ac.vuw.ecs.swen225.gp22.domain.Subject</node>
+    <node x="2370.00525709001" y="1505.8267586310799">test.nz.ac.vuw.ecs.swen225.gp22.domain.DomainTests</node>
+    <node x="2019.0144961575793" y="632.0209391485888">nz.ac.vuw.ecs.swen225.gp22.domain.CellState</node>
+    <node x="1119.0949021901029" y="1790.233931998981">nz.ac.vuw.ecs.swen225.gp22.domain.Cells</node>
+    <node x="805.3921774760254" y="1835.1943535540354">nz.ac.vuw.ecs.swen225.gp22.recorder.Replay</node>
+    <node x="1308.1151871794962" y="837.6888724331657">test.nz.ac.vuw.ecs.swen225.gp22.persistency.PersistencyTests</node>
+    <node x="3036.3150812778404" y="1232.4537872167887">nz.ac.vuw.ecs.swen225.gp22.app.Keys</node>
+    <node x="2206.729320500505" y="995.0935130209264">nz.ac.vuw.ecs.swen225.gp22.domain.Boots</node>
+    <node x="2061.315896807342" y="776.4805859880449">nz.ac.vuw.ecs.swen225.gp22.domain.Spawn</node>
+    <node x="1004.8633593355128" y="-61.98151125409754">nz.ac.vuw.ecs.swen225.gp22.domain.Player</node>
+    <node x="1556.562838418374" y="942.9925771456994">test.nz.ac.vuw.ecs.swen225.gp22.fuzz.FuzzTests</node>
+    <node x="2772.63502231798" y="961.6452036211999">nz.ac.vuw.ecs.swen225.gp22.app.Controller</node>
+    <node x="2250.9766842948598" y="1207.1184763199885">nz.ac.vuw.ecs.swen225.gp22.domain.Point</node>
+    <node x="438.86346208785244" y="773.4255738762404">nz.ac.vuw.ecs.swen225.gp22.domain.Treasure</node>
+    <node x="1564.4185430007458" y="555.8864931162507">nz.ac.vuw.ecs.swen225.gp22.domain.Wall</node>
+    <node x="1721.6734650001956" y="1301.1884556265352">nz.ac.vuw.ecs.swen225.gp22.renderer.EventHandler</node>
+    <node x="2717.8478021565224" y="1589.0818478221431">nz.ac.vuw.ecs.swen225.gp22.recorder.Recorder</node>
+    <node x="540.2360402880237" y="1837.1835721837765">nz.ac.vuw.ecs.swen225.gp22.global.Direction</node>
+    <node x="2609.5481394540984" y="789.0885359351107">nz.ac.vuw.ecs.swen225.gp22.domain.Floor</node>
+    <node x="951.0042157128751" y="2574.7860712788124">nz.ac.vuw.ecs.swen225.gp22.renderer.imgs.Img</node>
+    <node x="719.2990009892185" y="1047.4429566777308">nz.ac.vuw.ecs.swen225.gp22.renderer.imgs.player_sprites.PlayerImg</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.renderer.LevelView" target="nz.ac.vuw.ecs.swen225.gp22.renderer.EventHandler" relationship="CREATE">
+      <point x="166.0" y="-22.242958075473553" />
+      <point x="-116.5" y="43.0" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Cells" target="nz.ac.vuw.ecs.swen225.gp22.domain.Point" relationship="CREATE">
+      <point x="9.780989717000921E-5" y="-152.49993199898108" />
+      <point x="1259.095" y="1584.0" />
+      <point x="2339.977" y="1584.0" />
+      <point x="3.157051401103672E-4" y="105.49952368001141" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Floor" target="nz.ac.vuw.ecs.swen225.gp22.domain.CellState" relationship="REALIZATION">
+      <point x="-1.3945409864390967E-4" y="-50.49953593511066" />
+      <point x="2690.048" y="728.0" />
+      <point x="2099.514" y="728.0" />
+      <point x="-4.961575791639916E-4" y="38.00006085141115" />
+    </edge>
+    <edge source="test.nz.ac.vuw.ecs.swen225.gp22.fuzz.FuzzTests" target="test.nz.ac.vuw.ecs.swen225.gp22.fuzz.FuzzTests.MyRobot" relationship="CREATE">
+      <point x="-22.830355093641174" y="61.5" />
+      <point x="1624.7324833247328" y="1185.1475788573437" />
+      <point x="72.0" y="-11.344998288355782" />
+    </edge>
+    <edge source="test.nz.ac.vuw.ecs.swen225.gp22.domain.DomainTests" target="nz.ac.vuw.ecs.swen225.gp22.domain.Teleporter" relationship="CREATE">
+      <point x="-2.570900101090956E-4" y="-402.4997586310799" />
+      <point x="2513.505" y="1450.618" />
+      <point x="2461.0" y="1450.618" />
+      <point x="2461.0" y="977.594" />
+      <point x="2419.229" y="977.594" />
+      <point x="-9.754398005420626" y="86.50035934109917" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.persistency.Levels" target="nz.ac.vuw.ecs.swen225.gp22.domain.Teleporter" relationship="CREATE">
+      <point x="-175.00002162962426" y="171.85760847995152" />
+      <point x="-193.811" y="1665.895" />
+      <point x="-193.811" y="-94.482" />
+      <point x="2788.048" y="-94.482" />
+      <point x="2788.048" y="944.145" />
+      <point x="2461.0" y="944.145" />
+      <point x="2461.0" y="977.594" />
+      <point x="2419.229" y="977.594" />
+      <point x="-9.754398005420626" y="86.50035934109917" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.renderer.EventHandler" target="nz.ac.vuw.ecs.swen225.gp22.renderer.SoundPlayer" relationship="TO_ONE">
+      <point x="-4.6500019561790396E-4" y="50.499544373464914" />
+      <point x="1838.173" y="1473.0" />
+      <point x="2703.0" y="1473.0" />
+      <point x="2703.0" y="1369.164" />
+      <point x="-91.49987960258886" y="4.4567098029801855E-4" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.renderer.LevelView" target="nz.ac.vuw.ecs.swen225.gp22.renderer.LevelView.ScreenFields" relationship="CREATE">
+      <point x="14.99951667526716" y="138.5" />
+      <point x="14.99951667526716" y="-61.5" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Cells" target="nz.ac.vuw.ecs.swen225.gp22.domain.Floor" relationship="CREATE">
+      <point x="-139.99990219010283" y="-143.233931998981" />
+      <point x="893.5" y="1799.5" />
+      <point x="893.5" y="1211.0" />
+      <point x="561.953" y="1211.0" />
+      <point x="561.953" y="1128.438" />
+      <point x="149.452" y="1128.438" />
+      <point x="149.452" y="-79.482" />
+      <point x="2705.048" y="-79.482" />
+      <point x="14.999860545901356" y="-50.49953593511066" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.renderer.LevelView" target="nz.ac.vuw.ecs.swen225.gp22.domain.Point" relationship="CREATE">
+      <point x="-4.833247328406287E-4" y="138.4995862979913" />
+      <point x="1466.232" y="1584.0" />
+      <point x="2339.977" y="1584.0" />
+      <point x="3.157051401103672E-4" y="105.49952368001141" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.InfoField" target="nz.ac.vuw.ecs.swen225.gp22.domain.Point" relationship="TO_ONE">
+      <point x="-110.00038305616181" y="78.99548029160928" />
+      <point x="2177.0" y="1153.503" />
+      <point x="2177.0" y="1312.618" />
+      <point x="-88.99968429485989" y="-4.7631998859287705E-4" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.renderer.LevelView" target="nz.ac.vuw.ecs.swen225.gp22.domain.Floor" relationship="CREATE">
+      <point x="-94.73248332473281" y="-138.5004137020087" />
+      <point x="1371.5" y="1211.0" />
+      <point x="561.953" y="1211.0" />
+      <point x="561.953" y="1128.438" />
+      <point x="149.452" y="1128.438" />
+      <point x="149.452" y="-79.482" />
+      <point x="2705.048" y="-79.482" />
+      <point x="14.999860545901356" y="-50.49953593511066" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.app.Chips" target="nz.ac.vuw.ecs.swen225.gp22.recorder.Recorder" relationship="TO_ONE">
+      <point x="-15.000427474058512" y="239.0" />
+      <point x="43.68899999999999" y="2520.46" />
+      <point x="2866.848" y="2520.46" />
+      <point x="15.000197843477508" y="83.5" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.app.Chips" target="nz.ac.vuw.ecs.swen225.gp22.app.CustomButton" relationship="CREATE">
+      <point x="-190.0" y="0.0" />
+      <point x="-253.811" y="1394.3953004743548" />
+      <point x="-253.811" y="-109.482" />
+      <point x="1776.8980090032323" y="-109.482" />
+      <point x="-4.773031216809386" y="-27.0" />
+    </edge>
+    <edge source="test.nz.ac.vuw.ecs.swen225.gp22.domain.DomainTests" target="nz.ac.vuw.ecs.swen225.gp22.domain.Treasure" relationship="CREATE">
+      <point x="-143.5002570900101" y="15.000241368920115" />
+      <point x="1522.5" y="1923.327" />
+      <point x="1522.5" y="2759.286" />
+      <point x="-178.811" y="2759.286" />
+      <point x="-178.811" y="983.628" />
+      <point x="548.863" y="983.628" />
+      <point x="-4.620878523837746E-4" y="64.50042612375967" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Player" target="nz.ac.vuw.ecs.swen225.gp22.domain.Subject" relationship="GENERALIZATION">
+      <point x="-3.593355127122777E-4" y="295.49951125409757" />
+      <point x="1153.363" y="569.0" />
+      <point x="1042.0" y="569.0" />
+      <point x="1042.0" y="801.237" />
+      <point x="-82.99960001093996" y="-5.928827772549994E-5" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.global.Direction" target="nz.ac.vuw.ecs.swen225.gp22.domain.Point" relationship="TO_ONE">
+      <point x="-4.028802368338802E-5" y="-149.49957218377654" />
+      <point x="630.236" y="1727.037" />
+      <point x="690.0" y="1727.037" />
+      <point x="690.0" y="1271.5" />
+      <point x="1024.232" y="1271.5" />
+      <point x="1024.232" y="1092.0" />
+      <point x="1756.063" y="1092.0" />
+      <point x="1756.063" y="945.503" />
+      <point x="2177.0" y="945.503" />
+      <point x="2177.0" y="1312.618" />
+      <point x="-88.99968429485989" y="-4.7631998859287705E-4" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.app.Chips" target="nz.ac.vuw.ecs.swen225.gp22.app.Controller" relationship="TO_ONE">
+      <point x="-190.0" y="-15.0" />
+      <point x="-313.81100000000004" y="1379.3953004743548" />
+      <point x="-313.81100000000004" y="-199.482" />
+      <point x="2910.13502231798" y="-199.482" />
+      <point x="0.0" y="-74.0" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Treasure" target="nz.ac.vuw.ecs.swen225.gp22.domain.Point" relationship="TO_ONE">
+      <point x="109.99953791214762" y="-14.999573876240333" />
+      <point x="690.0" y="822.926" />
+      <point x="690.0" y="1271.5" />
+      <point x="1024.232" y="1271.5" />
+      <point x="1024.232" y="1092.0" />
+      <point x="1756.063" y="1092.0" />
+      <point x="1756.063" y="945.503" />
+      <point x="2177.0" y="945.503" />
+      <point x="2177.0" y="1312.618" />
+      <point x="-88.99968429485989" y="-4.7631998859287705E-4" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.renderer.LevelView.PlayerFields" target="nz.ac.vuw.ecs.swen225.gp22.domain.Point" relationship="TO_ONE">
+      <point x="-4.833247328406287E-4" y="-61.50047631998859" />
+      <point x="1146.232" y="1092.0" />
+      <point x="1756.063" y="1092.0" />
+      <point x="1756.063" y="945.503" />
+      <point x="2177.0" y="945.503" />
+      <point x="2177.0" y="1312.618" />
+      <point x="-88.99968429485989" y="-4.7631998859287705E-4" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.renderer.LevelView.PlayerFields" target="nz.ac.vuw.ecs.swen225.gp22.renderer.LevelView" relationship="INNER_CLASS">
+      <point x="104.49951667526716" y="-4.7631998859287705E-4" />
+      <point x="1276.0" y="1312.618" />
+      <point x="1276.0" y="1416.931" />
+      <point x="-166.00048332473284" y="-4.1370200870005647E-4" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.GreenLockedDoor" target="nz.ac.vuw.ecs.swen225.gp22.domain.LockedDoor" relationship="GENERALIZATION">
+      <point x="83.49981136837346" y="-0.990979618800111" />
+      <point x="635.681" y="609.415" />
+      <point x="635.681" y="584.0" />
+      <point x="1528.615" y="584.0" />
+      <point x="1528.615" y="768.213" />
+      <point x="-80.49969372801593" y="-1.3103857004145993" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.persistency.Levels" target="nz.ac.vuw.ecs.swen225.gp22.domain.Treasure" relationship="CREATE">
+      <point x="174.99997837037574" y="14.999608479951576" />
+      <point x="878.5" y="1509.037" />
+      <point x="878.5" y="1751.0" />
+      <point x="1522.5" y="1751.0" />
+      <point x="1522.5" y="2759.286" />
+      <point x="-178.811" y="2759.286" />
+      <point x="-178.811" y="983.628" />
+      <point x="548.863" y="983.628" />
+      <point x="-4.620878523837746E-4" y="64.50042612375967" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.renderer.SoundPlayer" target="nz.ac.vuw.ecs.swen225.gp22.renderer.sounds.Sound" relationship="TO_MANY">
+      <point x="91.5" y="0.0" />
+      <point x="3018.3478021565224" y="1369.1635543290197" />
+      <point x="3018.3478021565224" y="2426.459848333343" />
+      <point x="86.0" y="0.0" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.app.Chips" target="nz.ac.vuw.ecs.swen225.gp22.renderer.LevelView" relationship="TO_ONE">
+      <point x="0.0" y="-239.0" />
+      <point x="58.689427474058505" y="999.438" />
+      <point x="988.5" y="999.438" />
+      <point x="988.5" y="1386.931" />
+      <point x="-166.0" y="-30.0004137020087" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Level" target="nz.ac.vuw.ecs.swen225.gp22.domain.Cells" relationship="TO_ONE">
+      <point x="178.0" y="126.52472551006394" />
+      <point x="1174.504215712875" y="2263.0" />
+      <point x="-84.59068647722779" y="152.5" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.persistency.Levels" target="nz.ac.vuw.ecs.swen225.gp22.domain.Point" relationship="CREATE">
+      <point x="174.99997837037574" y="-3.9152004842435417E-4" />
+      <point x="675.0" y="1494.037" />
+      <point x="675.0" y="1416.931" />
+      <point x="1243.232" y="1416.931" />
+      <point x="1243.232" y="1584.0" />
+      <point x="2339.977" y="1584.0" />
+      <point x="3.157051401103672E-4" y="105.49952368001141" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Cells" target="nz.ac.vuw.ecs.swen225.gp22.domain.Spawn" relationship="CREATE">
+      <point x="45.0" y="152.5" />
+      <point x="1304.0949021901029" y="2804.286" />
+      <point x="3389.815" y="2804.286" />
+      <point x="3389.815" y="-109.482" />
+      <point x="2197.5144961575793" y="-109.482" />
+      <point x="55.698599350237146" y="-50.5" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.renderer.LevelView" target="nz.ac.vuw.ecs.swen225.gp22.domain.Cell" relationship="CREATE">
+      <point x="-154.7324833247328" y="138.4995862979913" />
+      <point x="1311.5" y="1715.0" />
+      <point x="1031.894" y="1715.0" />
+      <point x="2.0894760336886975E-4" y="119.50028217984823" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.recorder.Recorder" target="nz.ac.vuw.ecs.swen225.gp22.recorder.Replay" relationship="CREATE">
+      <point x="1.9784347750828601E-4" y="83.50015217785699" />
+      <point x="2851.848" y="2505.46" />
+      <point x="91.413" y="2505.46" />
+      <point x="91.413" y="1792.0" />
+      <point x="870.5" y="1792.0" />
+      <point x="-46.89217747602538" y="-141.50035355403543" />
+    </edge>
+    <edge source="test.nz.ac.vuw.ecs.swen225.gp22.domain.DomainTests" target="nz.ac.vuw.ecs.swen225.gp22.domain.Boots" relationship="CREATE">
+      <point x="-143.5002570900101" y="-167.82675863107988" />
+      <point x="2214.0" y="1740.5" />
+      <point x="-102.72932050050485" y="64.50048697907368" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Cells" target="nz.ac.vuw.ecs.swen225.gp22.domain.Wall" relationship="CREATE">
+      <point x="-30.0" y="152.5" />
+      <point x="1229.0949021901029" y="2864.286" />
+      <point x="3419.815" y="2864.286" />
+      <point x="3419.815" y="-244.482" />
+      <point x="1644.9185430007458" y="-244.482" />
+      <point x="0.0" y="-50.5" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Cells" target="nz.ac.vuw.ecs.swen225.gp22.domain.BlueLockedDoor" relationship="CREATE">
+      <point x="-15.0" y="152.5" />
+      <point x="1244.0949021901029" y="2849.286" />
+      <point x="3404.815" y="2849.286" />
+      <point x="3404.815" y="-229.482" />
+      <point x="1346.197" y="-229.482" />
+      <point x="-55.99952840954893" y="-39.5" />
+    </edge>
+    <edge source="test.nz.ac.vuw.ecs.swen225.gp22.domain.DomainTests" target="nz.ac.vuw.ecs.swen225.gp22.domain.Exit" relationship="CREATE">
+      <point x="-143.5002570900101" y="30.000241368920115" />
+      <point x="1743.5" y="1938.327" />
+      <point x="1743.5" y="2233.0" />
+      <point x="787.892" y="2233.0" />
+      <point x="787.892" y="1187.943" />
+      <point x="1105.495" y="1187.943" />
+      <point x="-15.000429096256767" y="64.4995460728071" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.persistency.Levels" target="nz.ac.vuw.ecs.swen225.gp22.domain.Boots" relationship="CREATE">
+      <point x="174.99997837037574" y="44.999608479951576" />
+      <point x="737.736" y="1539.037" />
+      <point x="737.736" y="2248.0" />
+      <point x="2214.0" y="2248.0" />
+      <point x="-102.72932050050485" y="64.50048697907368" />
+    </edge>
+    <edge source="test.nz.ac.vuw.ecs.swen225.gp22.domain.DomainTests" target="nz.ac.vuw.ecs.swen225.gp22.domain.Key" relationship="CREATE">
+      <point x="-143.5002570900101" y="45.000241368920115" />
+      <point x="2001.942" y="1953.327" />
+      <point x="-34.24311676776506" y="86.49994814166394" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.app.Keys" target="nz.ac.vuw.ecs.swen225.gp22.app.Chips" relationship="TO_ONE">
+      <point x="130.5" y="0.0" />
+      <point x="3434.815" y="1304.9537872167887" />
+      <point x="3434.815" y="2879.286" />
+      <point x="-328.81100000000004" y="2879.286" />
+      <point x="-328.81100000000004" y="1424.3953004743548" />
+      <point x="-190.0" y="30.0" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.renderer.LevelView" target="nz.ac.vuw.ecs.swen225.gp22.renderer.SoundPlayer" relationship="CREATE">
+      <point x="166.0" y="71.06858629799126" />
+      <point x="2833.0038796025888" y="1488.0" />
+      <point x="0.0" y="94.5" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Teleporter" target="nz.ac.vuw.ecs.swen225.gp22.domain.Point" relationship="TO_ONE">
+      <point x="-110.00039800542027" y="67.52135934109913" />
+      <point x="2177.0" y="900.5" />
+      <point x="2177.0" y="1312.618" />
+      <point x="-88.99968429485989" y="-4.7631998859287705E-4" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Cells" target="nz.ac.vuw.ecs.swen225.gp22.domain.YellowLockedDoor" relationship="CREATE">
+      <point x="140.0" y="-64.40693199898101" />
+      <point x="1972.1734650001956" y="1878.327" />
+      <point x="1972.1734650001956" y="1225.1475788573437" />
+      <point x="1898.671" y="1225.1475788573437" />
+      <point x="14.133606041815256" y="39.5" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.YellowLockedDoor" target="nz.ac.vuw.ecs.swen225.gp22.domain.LockedDoor" relationship="GENERALIZATION">
+      <point x="-85.50039395818476" y="-1.7933018875737616E-4" />
+      <point x="1528.615" y="862.957" />
+      <point x="1528.615" y="768.213" />
+      <point x="-80.49969372801593" y="-1.3103857004145993" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Cells" target="nz.ac.vuw.ecs.swen225.gp22.domain.GreenLockedDoor" relationship="CREATE">
+      <point x="0.0" y="152.5" />
+      <point x="1259.0949021901029" y="2819.286" />
+      <point x="-283.81100000000004" y="2819.286" />
+      <point x="-283.81100000000004" y="610.4059796188001" />
+      <point x="-83.5" y="0.0" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Cells" target="nz.ac.vuw.ecs.swen225.gp22.domain.Point" relationship="TO_ONE">
+      <point x="-139.99990219010283" y="-128.233931998981" />
+      <point x="690.0" y="1814.5" />
+      <point x="690.0" y="1271.5" />
+      <point x="1024.232" y="1271.5" />
+      <point x="1024.232" y="1092.0" />
+      <point x="1756.063" y="1092.0" />
+      <point x="1756.063" y="945.503" />
+      <point x="2177.0" y="945.503" />
+      <point x="2177.0" y="1312.618" />
+      <point x="-88.99968429485989" y="-4.7631998859287705E-4" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Level" target="nz.ac.vuw.ecs.swen225.gp22.domain.Entity" relationship="TO_MANY">
+      <point x="-178.0003660807132" y="-2.7448993614598294E-4" />
+      <point x="-148.811" y="2136.475" />
+      <point x="-148.811" y="827.748" />
+      <point x="134.452" y="827.748" />
+      <point x="134.452" y="550.0" />
+      <point x="898.313" y="550.0" />
+      <point x="1.90688507473169E-5" y="-62.99990509027987" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Entity" target="nz.ac.vuw.ecs.swen225.gp22.domain.Subject" relationship="GENERALIZATION">
+      <point x="110.00001906885086" y="9.490972013281862E-5" />
+      <point x="1042.0" y="737.234" />
+      <point x="1042.0" y="801.237" />
+      <point x="-82.99960001093996" y="-5.928827772549994E-5" />
+    </edge>
+    <edge source="test.nz.ac.vuw.ecs.swen225.gp22.fuzz.FuzzTests.MyRobot" target="test.nz.ac.vuw.ecs.swen225.gp22.fuzz.FuzzTests" relationship="INNER_CLASS">
+      <point x="62.3825166752672" y="-39.5" />
+      <point x="1528.615" y="1004.4925771456994" />
+      <point x="-91.0" y="0.0" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.global.Direction" target="nz.ac.vuw.ecs.swen225.gp22.domain.Point" relationship="CREATE">
+      <point x="14.999959711976317" y="-149.49957218377654" />
+      <point x="645.236" y="1742.037" />
+      <point x="675.0" y="1742.037" />
+      <point x="675.0" y="1416.931" />
+      <point x="1243.232" y="1416.931" />
+      <point x="1243.232" y="1584.0" />
+      <point x="2339.977" y="1584.0" />
+      <point x="3.157051401103672E-4" y="105.49952368001141" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.app.Chips" target="nz.ac.vuw.ecs.swen225.gp22.recorder.Recorder" relationship="CREATE">
+      <point x="-30.00042747405851" y="239.0" />
+      <point x="28.688999999999993" y="2535.46" />
+      <point x="2881.848" y="2535.46" />
+      <point x="30.00019784347751" y="83.5" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.BlueLockedDoor" target="nz.ac.vuw.ecs.swen225.gp22.domain.LockedDoor" relationship="GENERALIZATION">
+      <point x="4.7159045107036945E-4" y="-39.499900422265455" />
+      <point x="1402.197" y="584.0" />
+      <point x="1528.615" y="584.0" />
+      <point x="1528.615" y="768.213" />
+      <point x="-80.49969372801593" y="-1.3103857004145993" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.renderer.EventHandler" target="nz.ac.vuw.ecs.swen225.gp22.domain.Subject" relationship="TO_MANY">
+      <point x="-116.5" y="0.0" />
+      <point x="1672.232" y="1351.6884556265352" />
+      <point x="1672.232" y="1123.5" />
+      <point x="1244.16160001094" y="1123.5" />
+      <point x="1244.16160001094" y="887.7370592882777" />
+      <point x="1158.16160001094" y="887.7370592882777" />
+      <point x="0.0" y="61.5" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Player" target="nz.ac.vuw.ecs.swen225.gp22.domain.Point" relationship="TO_ONE">
+      <point x="105.29864066448727" y="295.49951125409757" />
+      <point x="1258.662" y="1092.0" />
+      <point x="1756.063" y="1092.0" />
+      <point x="1756.063" y="945.503" />
+      <point x="2177.0" y="945.503" />
+      <point x="2177.0" y="1312.618" />
+      <point x="-88.99968429485989" y="-4.7631998859287705E-4" />
+    </edge>
+    <edge source="test.nz.ac.vuw.ecs.swen225.gp22.domain.DomainTests" target="nz.ac.vuw.ecs.swen225.gp22.domain.Player" relationship="CREATE">
+      <point x="-143.5002570900101" y="-14.999758631079885" />
+      <point x="1758.5" y="1893.327" />
+      <point x="1758.5" y="1767.0" />
+      <point x="522.736" y="1767.0" />
+      <point x="522.736" y="2582.286" />
+      <point x="-163.811" y="2582.286" />
+      <point x="-163.811" y="248.518" />
+      <point x="-148.5003593355127" y="14.999511254097541" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Player" target="nz.ac.vuw.ecs.swen225.gp22.global.Direction" relationship="TO_ONE">
+      <point x="29.999640664487288" y="295.49951125409757" />
+      <point x="1183.363" y="550.0" />
+      <point x="1291.0" y="550.0" />
+      <point x="1291.0" y="569.0" />
+      <point x="1361.197" y="569.0" />
+      <point x="1361.197" y="506.518" />
+      <point x="3314.815" y="506.518" />
+      <point x="3314.815" y="2328.327" />
+      <point x="630.236" y="2328.327" />
+      <point x="-4.028802368338802E-5" y="149.5004278162237" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Cells" target="nz.ac.vuw.ecs.swen225.gp22.domain.RedLockedDoor" relationship="CREATE">
+      <point x="15.0" y="152.5" />
+      <point x="1274.0949021901029" y="2834.286" />
+      <point x="-298.81100000000004" y="2834.286" />
+      <point x="-298.81100000000004" y="667.4059796188001" />
+      <point x="-77.5" y="0.9905320722783699" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.persistency.Levels" target="nz.ac.vuw.ecs.swen225.gp22.domain.Player" relationship="CREATE">
+      <point x="-2.1629624257002433E-5" y="215.49960847995158" />
+      <point x="484.312" y="1767.0" />
+      <point x="522.736" y="1767.0" />
+      <point x="522.736" y="2582.286" />
+      <point x="-163.811" y="2582.286" />
+      <point x="-163.811" y="248.518" />
+      <point x="-148.5003593355127" y="14.999511254097541" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.app.Chips" target="nz.ac.vuw.ecs.swen225.gp22.renderer.LevelView" relationship="CREATE">
+      <point x="190.0" y="-206.45230047435484" />
+      <point x="772.892" y="1187.943" />
+      <point x="772.892" y="1401.931" />
+      <point x="-166.0" y="-15.0004137020087" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.renderer.LevelView" target="nz.ac.vuw.ecs.swen225.gp22.renderer.EventHandler" relationship="TO_ONE">
+      <point x="166.0" y="-54.74295807547355" />
+      <point x="-116.5" y="10.5" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Level" target="nz.ac.vuw.ecs.swen225.gp22.domain.Player" relationship="TO_ONE">
+      <point x="-178.0" y="14.999725510063854" />
+      <point x="-268.81100000000004" y="2151.475" />
+      <point x="-268.81100000000004" y="-184.482" />
+      <point x="1153.3633593355128" y="-184.482" />
+      <point x="0.0" y="-295.5" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Key" target="nz.ac.vuw.ecs.swen225.gp22.domain.Entity" relationship="GENERALIZATION">
+      <point x="-110.00011676776512" y="-5.185833606446977E-5" />
+      <point x="1806.537" y="1049.503" />
+      <point x="1806.537" y="1107.0" />
+      <point x="973.5" y="1107.0" />
+      <point x="75.18701906885076" y="63.00009490972013" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Boots" target="nz.ac.vuw.ecs.swen225.gp22.domain.Entity" relationship="GENERALIZATION">
+      <point x="-3.2050050504039973E-4" y="64.50048697907368" />
+      <point x="2316.729" y="1178.508" />
+      <point x="1883.671" y="1178.508" />
+      <point x="1883.671" y="1107.0" />
+      <point x="973.5" y="1107.0" />
+      <point x="75.18701906885076" y="63.00009490972013" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Treasure" target="nz.ac.vuw.ecs.swen225.gp22.domain.Entity" relationship="GENERALIZATION">
+      <point x="109.99953791214762" y="4.2612375966655236E-4" />
+      <point x="973.5" y="837.926" />
+      <point x="75.18701906885076" y="63.00009490972013" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Player" target="nz.ac.vuw.ecs.swen225.gp22.domain.Entity" relationship="TO_MANY">
+      <point x="14.999640664487288" y="295.49951125409757" />
+      <point x="1168.363" y="550.0" />
+      <point x="898.313" y="550.0" />
+      <point x="1.90688507473169E-5" y="-62.99990509027987" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.ExitLock" target="nz.ac.vuw.ecs.swen225.gp22.domain.CellState" relationship="REALIZATION">
+      <point x="80.49999099676756" y="2.3376476622161135E-4" />
+      <point x="1995.0" y="712.914" />
+      <point x="1995.0" y="728.0" />
+      <point x="2099.514" y="728.0" />
+      <point x="-4.961575791639916E-4" y="38.00006085141115" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Wall" target="nz.ac.vuw.ecs.swen225.gp22.domain.CellState" relationship="REALIZATION">
+      <point x="80.50045699925431" y="-4.931162507091358E-4" />
+      <point x="1995.0" y="606.386" />
+      <point x="1995.0" y="728.0" />
+      <point x="2099.514" y="728.0" />
+      <point x="-4.961575791639916E-4" y="38.00006085141115" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.renderer.LevelView" target="nz.ac.vuw.ecs.swen225.gp22.global.Direction" relationship="TO_ONE">
+      <point x="-124.73248332473281" y="-138.5004137020087" />
+      <point x="1341.5" y="1164.493" />
+      <point x="1291.0" y="1164.493" />
+      <point x="1291.0" y="569.0" />
+      <point x="1361.197" y="569.0" />
+      <point x="1361.197" y="506.518" />
+      <point x="3314.815" y="506.518" />
+      <point x="3314.815" y="2328.327" />
+      <point x="630.236" y="2328.327" />
+      <point x="-4.028802368338802E-5" y="149.5004278162237" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.app.Chips" target="nz.ac.vuw.ecs.swen225.gp22.recorder.Replay" relationship="CREATE">
+      <point x="-4.2747405850462883E-4" y="238.99969952564516" />
+      <point x="58.689" y="1792.0" />
+      <point x="870.5" y="1792.0" />
+      <point x="-46.89217747602538" y="-141.50035355403543" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.app.Controller" target="nz.ac.vuw.ecs.swen225.gp22.app.Keys" relationship="GENERALIZATION">
+      <point x="130.0" y="74.0" />
+      <point x="-126.68005895986016" y="-72.5" />
+    </edge>
+    <edge source="test.nz.ac.vuw.ecs.swen225.gp22.domain.DomainTests" target="nz.ac.vuw.ecs.swen225.gp22.domain.Level" relationship="CREATE">
+      <point x="-2.570900101090956E-4" y="402.50024136892034" />
+      <point x="2513.505" y="2349.0" />
+      <point x="301.913" y="2349.0" />
+      <point x="-3.660807132064292E-4" y="196.49972551006385" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.app.Chips" target="nz.ac.vuw.ecs.swen225.gp22.app.Controller" relationship="CREATE">
+      <point x="-190.0" y="15.0" />
+      <point x="-328.81100000000004" y="1409.3953004743548" />
+      <point x="-328.81100000000004" y="-214.482" />
+      <point x="2925.13502231798" y="-214.482" />
+      <point x="15.0" y="-74.0" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Spawn" target="nz.ac.vuw.ecs.swen225.gp22.domain.CellState" relationship="REALIZATION">
+      <point x="1.0319265766156605E-4" y="-50.49958598804494" />
+      <point x="2141.816" y="728.0" />
+      <point x="2099.514" y="728.0" />
+      <point x="-4.961575791639916E-4" y="38.00006085141115" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.renderer.LevelView" target="nz.ac.vuw.ecs.swen225.gp22.domain.Level" relationship="TO_ONE">
+      <point x="-109.73248332473281" y="-138.5004137020087" />
+      <point x="1356.5" y="1232.0" />
+      <point x="291.812" y="1232.0" />
+      <point x="-10.101366080713206" y="-196.50027448993615" />
+    </edge>
+    <edge source="test.nz.ac.vuw.ecs.swen225.gp22.domain.DomainTests" target="nz.ac.vuw.ecs.swen225.gp22.domain.Point" relationship="CREATE">
+      <point x="-143.5002570900101" y="2.4136892011483724E-4" />
+      <point x="1743.5" y="1908.327" />
+      <point x="1743.5" y="1584.0" />
+      <point x="2339.977" y="1584.0" />
+      <point x="3.157051401103672E-4" y="105.49952368001141" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Exit" target="nz.ac.vuw.ecs.swen225.gp22.domain.Point" relationship="TO_ONE">
+      <point x="14.999570903743233" y="64.4995460728071" />
+      <point x="1135.495" y="1092.0" />
+      <point x="1756.063" y="1092.0" />
+      <point x="1756.063" y="945.503" />
+      <point x="2177.0" y="945.503" />
+      <point x="2177.0" y="1312.618" />
+      <point x="-88.99968429485989" y="-4.7631998859287705E-4" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.persistency.Levels" target="nz.ac.vuw.ecs.swen225.gp22.domain.Exit" relationship="CREATE">
+      <point x="18.18797837037573" y="215.49960847995158" />
+      <point x="502.5" y="2233.0" />
+      <point x="787.892" y="2233.0" />
+      <point x="787.892" y="1187.943" />
+      <point x="1105.495" y="1187.943" />
+      <point x="-15.000429096256767" y="64.4995460728071" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.persistency.Levels" target="nz.ac.vuw.ecs.swen225.gp22.domain.Key" relationship="CREATE">
+      <point x="174.99997837037574" y="29.999608479951576" />
+      <point x="772.892" y="1524.037" />
+      <point x="772.892" y="2143.0" />
+      <point x="2001.942" y="2143.0" />
+      <point x="-34.24311676776506" y="86.49994814166394" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Cell" target="nz.ac.vuw.ecs.swen225.gp22.domain.CellState" relationship="TO_ONE">
+      <point x="84.5" y="9.141695881857004" />
+      <point x="2159.185116767765" y="1568.4314137020087" />
+      <point x="2159.185116767765" y="896.0" />
+      <point x="2048.315896807342" y="896.0" />
+      <point x="-51.198599350237146" y="38.0" />
+    </edge>
+    <edge source="test.nz.ac.vuw.ecs.swen225.gp22.domain.DomainTests" target="nz.ac.vuw.ecs.swen225.gp22.domain.InfoField" relationship="CREATE">
+      <point x="143.4997429099899" y="2.4136892011483724E-4" />
+      <point x="2688.0" y="1908.327" />
+      <point x="2688.0" y="1435.618" />
+      <point x="2616.22" y="1435.618" />
+      <point x="14.999616943838191" y="86.50048029160939" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Key" target="nz.ac.vuw.ecs.swen225.gp22.domain.Point" relationship="TO_ONE">
+      <point x="109.99988323223488" y="-5.185833606446977E-5" />
+      <point x="2177.0" y="1049.503" />
+      <point x="2177.0" y="1312.618" />
+      <point x="-88.99968429485989" y="-4.7631998859287705E-4" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.renderer.LevelView.ScreenFields" target="nz.ac.vuw.ecs.swen225.gp22.renderer.LevelView" relationship="INNER_CLASS">
+      <point x="-132.00048332473284" y="1.5217785698951047E-4" />
+      <point x="1276.0" y="1672.582" />
+      <point x="1276.0" y="1416.931" />
+      <point x="-166.00048332473284" y="-4.1370200870005647E-4" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Exit" target="nz.ac.vuw.ecs.swen225.gp22.domain.Entity" relationship="GENERALIZATION">
+      <point x="-4.2909625676657015E-4" y="64.4995460728071" />
+      <point x="1120.495" y="1107.0" />
+      <point x="973.5" y="1107.0" />
+      <point x="75.18701906885076" y="63.00009490972013" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Teleporter" target="nz.ac.vuw.ecs.swen225.gp22.domain.Entity" relationship="GENERALIZATION">
+      <point x="37.657601994579636" y="-86.49964065890083" />
+      <point x="2466.641" y="521.518" />
+      <point x="1513.615" y="521.518" />
+      <point x="1513.615" y="1107.0" />
+      <point x="973.5" y="1107.0" />
+      <point x="75.18701906885076" y="63.00009490972013" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Treasure" target="nz.ac.vuw.ecs.swen225.gp22.domain.Floor" relationship="CREATE">
+      <point x="38.089537912147534" y="64.50042612375967" />
+      <point x="586.953" y="1211.0" />
+      <point x="561.953" y="1211.0" />
+      <point x="561.953" y="1128.438" />
+      <point x="149.452" y="1128.438" />
+      <point x="149.452" y="-79.482" />
+      <point x="2705.048" y="-79.482" />
+      <point x="14.999860545901356" y="-50.49953593511066" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.renderer.LevelView" target="nz.ac.vuw.ecs.swen225.gp22.renderer.SoundPlayer" relationship="TO_ONE">
+      <point x="165.99951667526716" y="33.6865862979912" />
+      <point x="1649.732" y="1450.618" />
+      <point x="1649.732" y="1473.0" />
+      <point x="2703.0" y="1473.0" />
+      <point x="2703.0" y="1369.164" />
+      <point x="-91.49987960258886" y="4.4567098029801855E-4" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Level" target="nz.ac.vuw.ecs.swen225.gp22.domain.Cells" relationship="CREATE">
+      <point x="178.0" y="141.52472551006394" />
+      <point x="1159.504215712875" y="2278.0" />
+      <point x="-99.59068647722779" y="152.5" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Water" target="nz.ac.vuw.ecs.swen225.gp22.domain.CellState" relationship="REALIZATION">
+      <point x="1.4770068855796126E-4" y="50.499665231138465" />
+      <point x="2368.641" y="728.0" />
+      <point x="2099.514" y="728.0" />
+      <point x="-4.961575791639916E-4" y="38.00006085141115" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.renderer.LevelView" target="nz.ac.vuw.ecs.swen225.gp22.renderer.LevelView.PlayerFields" relationship="CREATE">
+      <point x="-166.0" y="-119.3134137020088" />
+      <point x="104.5" y="-15.000476319988593" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Player" target="nz.ac.vuw.ecs.swen225.gp22.domain.Floor" relationship="CREATE">
+      <point x="120.29864066448727" y="295.49951125409757" />
+      <point x="1273.662" y="1211.0" />
+      <point x="561.953" y="1211.0" />
+      <point x="561.953" y="1128.438" />
+      <point x="149.452" y="1128.438" />
+      <point x="149.452" y="-79.482" />
+      <point x="2705.048" y="-79.482" />
+      <point x="14.999860545901356" y="-50.49953593511066" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.persistency.Levels" target="nz.ac.vuw.ecs.swen225.gp22.domain.InfoField" relationship="CREATE">
+      <point x="-175.00002162962426" y="186.85760847995152" />
+      <point x="-208.811" y="1680.895" />
+      <point x="-208.811" y="2774.286" />
+      <point x="3043.815" y="2774.286" />
+      <point x="3043.815" y="1571.582" />
+      <point x="2688.0" y="1571.582" />
+      <point x="2688.0" y="1435.618" />
+      <point x="2616.22" y="1435.618" />
+      <point x="14.999616943838191" y="86.50048029160939" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Boots" target="nz.ac.vuw.ecs.swen225.gp22.domain.Point" relationship="TO_ONE">
+      <point x="-110.00032050050504" y="4.86979073684779E-4" />
+      <point x="2177.0" y="1059.594" />
+      <point x="2177.0" y="1312.618" />
+      <point x="-88.99968429485989" y="-4.7631998859287705E-4" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.persistency.Levels" target="nz.ac.vuw.ecs.swen225.gp22.domain.Level" relationship="CREATE">
+      <point x="-175.00002162962426" y="156.85760847995152" />
+      <point x="106.413" y="1650.895" />
+      <point x="106.413" y="2349.0" />
+      <point x="301.913" y="2349.0" />
+      <point x="-3.660807132064292E-4" y="196.49972551006385" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.LockedDoor" target="nz.ac.vuw.ecs.swen225.gp22.domain.CellState" relationship="REALIZATION">
+      <point x="80.50030627198407" y="1.3906142995854225" />
+      <point x="1995.0" y="770.914" />
+      <point x="1995.0" y="728.0" />
+      <point x="2099.514" y="728.0" />
+      <point x="-4.961575791639916E-4" y="38.00006085141115" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Cells" target="nz.ac.vuw.ecs.swen225.gp22.domain.Water" relationship="CREATE">
+      <point x="60.0" y="152.5" />
+      <point x="1319.0949021901029" y="2372.459848333343" />
+      <point x="3003.3478021565224" y="2372.459848333343" />
+      <point x="3003.3478021565224" y="1254.9537872167887" />
+      <point x="2749.0038796025888" y="1254.9537872167887" />
+      <point x="2749.0038796025888" y="907.5885359351107" />
+      <point x="2571.4833980054204" y="907.5885359351107" />
+      <point x="2571.4833980054204" y="626.2693347688615" />
+      <point x="80.5" y="0.0" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.RedLockedDoor" target="nz.ac.vuw.ecs.swen225.gp22.domain.LockedDoor" relationship="GENERALIZATION">
+      <point x="-1.9996835658275813E-4" y="-39.50044754652174" />
+      <point x="650.681" y="584.0" />
+      <point x="1528.615" y="584.0" />
+      <point x="1528.615" y="768.213" />
+      <point x="-80.49969372801593" y="-1.3103857004145993" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Player" target="nz.ac.vuw.ecs.swen225.gp22.domain.Point" relationship="CREATE">
+      <point x="-148.5003593355127" y="-4.887459024587315E-4" />
+      <point x="164.452" y="233.518" />
+      <point x="164.452" y="1014.438" />
+      <point x="675.0" y="1014.438" />
+      <point x="675.0" y="1416.931" />
+      <point x="1243.232" y="1416.931" />
+      <point x="1243.232" y="1584.0" />
+      <point x="2339.977" y="1584.0" />
+      <point x="3.157051401103672E-4" y="105.49952368001141" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.InfoField" target="nz.ac.vuw.ecs.swen225.gp22.domain.Entity" relationship="GENERALIZATION">
+      <point x="-3.830561618087813E-4" y="86.50048029160939" />
+      <point x="2601.22" y="1435.618" />
+      <point x="1649.732" y="1435.618" />
+      <point x="1649.732" y="1107.0" />
+      <point x="973.5" y="1107.0" />
+      <point x="75.18701906885076" y="63.00009490972013" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.app.Chips" target="nz.ac.vuw.ecs.swen225.gp22.domain.Level" relationship="TO_ONE">
+      <point x="189.9995725259415" y="-3.0047435484448215E-4" />
+      <point x="291.812" y="1394.395" />
+      <point x="-10.101366080713206" y="-196.50027448993615" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Cells" target="nz.ac.vuw.ecs.swen225.gp22.domain.ExitLock" relationship="CREATE">
+      <point x="30.0" y="152.5" />
+      <point x="1289.0949021901029" y="2789.286" />
+      <point x="3374.815" y="2789.286" />
+      <point x="3374.815" y="-169.482" />
+      <point x="1874.8980090032323" y="-169.482" />
+      <point x="0.0" y="-50.5" />
+    </edge>
+    <edge source="nz.ac.vuw.ecs.swen225.gp22.domain.Cells" target="nz.ac.vuw.ecs.swen225.gp22.domain.Cell" relationship="CREATE">
+      <point x="-132.49990219010283" y="-152.49993199898108" />
+      <point x="1126.595" y="1715.0" />
+      <point x="1031.894" y="1715.0" />
+      <point x="2.0894760336886975E-4" y="119.50028217984823" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.2071529745042493" showDependencies="true" x="1640.0" y="1397.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

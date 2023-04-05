@@ -1,0 +1,12 @@
+Example.xml
+/bin/
+.DS_Store
+/bin1/
+.idea
+levels/savedLevel.xml
+.project
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.jdt.ui.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.jdt.ui.prefs
+.classpath

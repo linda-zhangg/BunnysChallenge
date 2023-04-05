@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level num="2" time="120">
+    <map rows="25" cols="26">
+        <row>w#########wwwwwwwwwwwwwwww</row>
+        <row>w#wwwwwww#######wwwwwwwwww</row>
+        <row>w#www##.w#.....#wwwwwwwwww</row>
+        <row>w#www#..w#.....#wwwwwwwwww</row>
+        <row>w#www##.w#.....#wwwwwwwwww</row>
+        <row>w#wwwwwww###X###w#########</row>
+        <row>w#..wwwww#.....#w#.#..#..#</row>
+        <row>w#########.....###.#..#..#</row>
+        <row>w#...G......s.........#..#</row>
+        <row>w#########...............#</row>
+        <row>wwww###ww#.....###.......#</row>
+        <row>wwww#.#ww###.###w#.....###</row>
+        <row>w####.############.......#</row>
+        <row>##........###...##.#.....#</row>
+        <row>#..######..##....#.#..#..#</row>
+        <row>##.######.###..#########.#</row>
+        <row>##........#w#.....B..#...#</row>
+        <row>#..###.####w#.....#..R...#</row>
+        <row>####w###wwww##############</row>
+        <row>wwwwwwwwwwwwwwwwwwwwwwwwww</row>
+        <row>######ww######ww##########</row>
+        <row>##...#ww##...#ww##...ww.##</row>
+        <row>#...##ww#..ww#ww#....ww..#</row>
+        <row>##...#ww##...#ww##...ww.##</row>
+        <row>######ww######ww##########</row>
+    </map>
+    <entities>
+        <exit x="12" y="2"/>
+        <key x="12" y="11" code="R"/>
+        <key x="20" y="14" code="B"/>
+        <key x="5" y="11" code="G"/>
+        <boots x="20" y="22"/>
+        <teleporter x="16" y="14" endx="1" endy="22"/>
+        <teleporter x="4" y="21" endx="6" endy="3"/>
+        <teleporter x="4" y="23" endx="17" endy="22"/>
+        <teleporter x="12" y="21" endx="2" endy="8"/>
+        <teleporter x="12" y="23" endx="1" endy="17"/>
+        <teleporter x="24" y="22" endx="9" endy="22"/>
+        <treasure x="2" y="6"/>
+        <treasure x="1" y="14"/>
+        <treasure x="6" y="17"/>
+        <treasure x="10" y="14"/>
+        <treasure x="18" y="14"/>
+        <treasure x="21" y="6"/>
+        <treasure x="24" y="10"/>
+        <treasure x="11" y="21"/>
+        <info x="12" y="7">
+            <message>Don't touch the cows!      This way --></message>
+        </info>
+        <info x="19" y="22">
+            <message>Frost boots allow you to freeze water</message>
+        </info>
+        <info x="14" y="14">
+            <message>Use teleporters to go somewhere new</message>
+        </info>
+        <info x="7" y="3">
+            <message>I wonder if there's a way to get across</message>
+        </info>
+    </entities>
+    <player x="12" y="8">
+        <inventory>
+        </inventory>
+    </player>
+    <actors>
+        <monster x="19" y="8" route="DDDDUUUU" progress="0"/>
+        <monster x="22" y="13" route="UUUUDDDD" progress="0"/>
+        <monster x="18" y="11" route="RRRRLLLL" progress="0"/>
+        <monster x="2" y="16" route="RRRRRRRUUULLLLLLLDDD" progress="0"/>
+        <monster x="9" y="13" route="LLLLLLLDDDRRRRRRRUUU" progress="0"/>
+        <monster x="5" y="13" route="LLLDDDRRRRRRRUUULLLL" progress="0"/>
+        <monster x="6" y="16" route="RRRUUULLLLLLLDDDRRRR" progress="0"/>
+    </actors>
+</level>
